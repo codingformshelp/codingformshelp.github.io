@@ -2,7 +2,11 @@
 layout: default
 ---
 <style type="text/css">
-  {% include styles.css %}
+  .firstp::first-letter {
+    font-size: xx-large;
+    font-weight: bold;
+    color: gray;
+  }
 </style>
 {::nomarkdown}
   <p class="firstp" style="text-align: justify; padding-top: 5px;">CodingForms is a forms UI based online coding playground, currently supports HTML & CSS and this help document contains following topics. This help window can be opened by clicking on main toolbar help button or on help links in the editing windows.</p>
@@ -15,7 +19,7 @@ layout: default
       <i class="genderless blue icon"></i>
       <div class="content">Video overview of CodingForms</div>
     </a>
-    <a class="item">
+    <a class="item" href="howtousecf.html">
       <i class="genderless blue icon"></i>
       <div class="content">How to use CodingForms?</div>
     </a>
@@ -66,7 +70,7 @@ layout: default
       <div class="content">
         <div class="header">Minimal typing to code</div>
         <div class="description" style="text-align: justify;">
-          The tags, attributes, css selectors & properties can be used by selecting them from the list mentioned above. In order to set their values CodingForms provides value keywords list, colors list & selctors, numerical value selection ranges etc. which all helpful to set values without any typing. For only setting custom text values it requires to type. So it is an ideal editor to use on touch devices.
+          The tags, attributes, css selectors & properties can be used by selecting them from the list mentioned above. In order to set their values CodingForms provides value keywords list, colors list & selctor, numerical value selection ranges etc. which all helpful to set values without any typing. For only setting custom text values it requires to type. So it is an ideal editor to use on touch devices.
         </div>
       </div>
     </div>
