@@ -15,3 +15,8 @@
 	border-radius: 5px;
 	background-color: rgba(0, 0, 0, 0.25);
 }
+
+.firstp::first-letter {
+    font-size: xx-large;
+    font-weight: bold;
+}
