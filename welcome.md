@@ -5,7 +5,7 @@ layout: default
   {% include styles.css %}
 </style>
 {::nomarkdown}
-  <p class="firstp" style="text-align: justify;">CodingForms is a forms UI based online coding playground, currently supports HTML & CSS and this help document contains following topics. This help window can be opened by clicking on main toolbar help button or on help links in the editing windows.</p>
+  <p class="firstp" style="text-align: justify; padding-top: 5px;">CodingForms is a forms UI based online coding playground, currently supports HTML & CSS and this help document contains following topics. This help window can be opened by clicking on main toolbar help button or on help links in the editing windows.</p>
   <div class="ui relaxed list">
     <a class="item" href="#goals">
       <i class="genderless blue icon"></i>
