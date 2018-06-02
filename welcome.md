@@ -53,7 +53,6 @@ layout: default
     </a>
   </div>
 
-  <h4 id="goals">Goals and benefits of the CodingForms</h4>
   <div class="ui relaxed list">
     <div class="item">
       <i class="yellow star icon"></i>
