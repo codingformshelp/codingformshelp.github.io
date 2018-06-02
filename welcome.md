@@ -2,12 +2,9 @@
 layout: default
 ---
 <style type="text/css">
-  
-    {% include styles.css %}
-    
-  </style>
+  {% include styles.css %}
+</style>
 {::nomarkdown}
-<h1 class="center-text">CodingForms Help</h1>
 <div class="ui segment">
   <p style="text-align: justify;">CodingForms is a forms UI based online coding playground, currently supports HTML & CSS and this help document contains following topics. This help window can be opened by clicking on main toolbar help button or on help links in the editing windows.</p>
   <div class="ui relaxed list">
@@ -53,6 +50,7 @@ layout: default
     </a>
   </div>
 
+  <h4 id="goals">Goals and benefits of the CodingForms</h4>
   <div class="ui relaxed list">
     <div class="item">
       <i class="yellow star icon"></i>
