@@ -1,4 +1,5 @@
 ---
-layout: default
+layout: secondary-page
+title: How to use CodingForms
 ---
-how to use cf
+content

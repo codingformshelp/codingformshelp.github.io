@@ -9,13 +9,13 @@ layout: default
   }
 </style>
 {::nomarkdown}
-  <p class="firstp" style="text-align: justify; padding-top: 5px;">CodingForms is a forms UI based online coding playground, currently supports HTML & CSS and this help document contains following topics. This help window can be opened by clicking on main toolbar help button or on help links in the editing windows.</p>
+  <p class="firstp" id="top" style="text-align: justify; padding-top: 5px;">CodingForms is a forms UI based online coding playground, currently supports HTML & CSS and this help document contains following topics. This help window can be opened by clicking on main toolbar help button or on help links in the editing windows.</p>
   <div class="ui relaxed list">
     <a class="item" href="#goals">
       <i class="genderless blue icon"></i>
       <div class="content">Goals and benefits of the CodingForms</div>
     </a>
-    <a class="item">
+    <a class="item" onclick='parent.postMessage("Hello","http://localhost:4200");'>
       <i class="genderless blue icon"></i>
       <div class="content">Video overview of CodingForms</div>
     </a>
@@ -33,7 +33,7 @@ layout: default
     </a>
 
     <div class="item">
-      <div class="header">Reference to</div>
+      <div class="header">References to</div>
     </div>
     <a class="item">
       <i class="genderless blue icon"></i>
@@ -45,15 +45,16 @@ layout: default
     </a>
     <a class="item">
       <i class="genderless blue icon"></i>
-      <div class="content">CSS selectors</div>
+      <div class="content">Style properties</div>
     </a>
     <a class="item">
       <i class="genderless blue icon"></i>
-      <div class="content">Style properties</div>
-    </a>
+      <div class="content">CSS selectors</div>
+    </a>    
   </div>
 
   <h4 id="goals">Goals and benefits of the CodingForms</h4>
+
   <div class="ui relaxed list">
     <div class="item">
       <i class="yellow star icon"></i>
@@ -97,11 +98,20 @@ layout: default
 
     <div class="item">
       <i class="yellow star icon"></i>
-      <div class="content">
-        <div class="header">In context help</div>
+      <div class="content">        
+        <div class="header">In context help</div>        
         <div class="description" style="text-align: justify;">
           Details of a tag, attribute, css selector & properties will be displayed in this help window when click on the name from the respective lists.
         </div>
+      </div>
+    </div>
+
+    <div class="item">
+      <div class="right floated content">
+        <a class="ui icon right floated blue labelled basic tiny button" href="#top">
+          <i class="angle double up icon"></i>
+          Back to top
+        </a>
       </div>
     </div>
   </div>

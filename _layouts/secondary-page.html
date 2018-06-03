@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css">  
+        <link rel="stylesheet" href="/assets/styles.css">
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.js"></script>
+    </head>
+    <body style="padding-right: 5px;">
+        <div class="ui borderless menu" style="border-radius: 0; margin-right: -5px;">
+            <a class="item">
+                <i class="align justify blue icon"></i>
+            </a>
+            <h3 class="item header">{{page.title}}</h3>
+            <div class="right menu">
+                {% if site.categories.jobs == null %}
+                    <a class="item">
+                        <i class="arrow alternate circle left outline icon"></i>
+                    </a>
+                {% endif %}
+                <a class="item">
+                    <i class="arrow alternate circle right outline icon"></i>
+                </a>
+            </div>
+        </div>
+        <div>
+            {{content}}
+        </div>        
+    </body>
+</html>
