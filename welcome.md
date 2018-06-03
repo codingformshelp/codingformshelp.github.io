@@ -15,11 +15,11 @@ layout: default
       <i class="genderless blue icon"></i>
       <div class="content">Goals and benefits of the CodingForms</div>
     </a>
-    <a class="item" onclick='gotoUrl("videooverview.html");'>
+    <a class="item" onclick="gotoUrl({title: 'Video overview of CodingForms', url: 'videooverview.html'});">
       <i class="genderless blue icon"></i>
       <div class="content">Video overview of CodingForms</div>
     </a>
-    <a class="item" onclick='gotoUrl("howtousecf.html");'>
+    <a class="item" onclick="gotoUrl({title: 'How to use CodingForms?', url: 'howtousecf.html');">
       <i class="genderless blue icon"></i>
       <div class="content">How to use CodingForms?</div>
     </a>

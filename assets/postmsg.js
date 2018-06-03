@@ -1,3 +1,3 @@
-gotoUrl = function(url){
-    parent.postMessage({action: 'goto', url: url},'http://localhost:4200');
+gotoUrl = function(args){
+    parent.postMessage({action: 'goto', args:args},'http://localhost:4200');
 }
