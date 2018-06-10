@@ -1,0 +1,26 @@
+{
+    "desc": "This is only a valid attribute if the <i>type</i> attribute value is set to 'file' for the element. In that case it indicate the types of files that the server accepts, otherwise it will be ignored. One or more values can be specified that represent different content type specifiers.",
+    "elms": [
+      {
+          "input": "accept"
+      }
+    ],
+    "vals": [
+      {
+        "nm": "audio/*",
+        "desc": "Indicates that sound files are accepted"
+      },
+      {
+        "nm": "image/*",
+        "desc": "Indicates that image files are accepted"
+      },
+      {
+        "nm": "video/*",
+        "desc": "Indicates that video files are accepted"
+      },
+      {
+        "nm": "<text>",
+        "desc": "The text can be a file extenstion starts with the STOP character ('.') eg: .doc, .gif, .jpg, .png, .pdf.<br>Or A valid media type, with no parameters. A complete list of standard media types can be found here - <a href=\"\\http://www.iana.org/assignments/media-types/media-types.xhtml\" target=\"_blank\">IANA Media Types</a>"
+      }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "accept": [
+        {
+            "input": "accept"
+        }
+    ],
+    "accept-charset": [
+        {
+            "form": "accept-charset"
+        }
+    ]
+}
