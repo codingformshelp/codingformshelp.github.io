@@ -1,12 +1,12 @@
 {
     "accept": [
-        {
-            "input": "accept"
-        }
+      {
+        "tag": "input"
+      }
     ],
     "accept-charset": [
-        {
-            "form": "accept-charset"
-        }
+      {
+        "tag": "form"
+      }
     ]
 }
