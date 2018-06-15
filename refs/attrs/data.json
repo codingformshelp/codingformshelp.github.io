@@ -1,0 +1,14 @@
+{
+    "usg": "Use to set the URL of the object resource.",
+    "elms": {
+      "object": {
+        "desc": ""
+      }
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "A valid URL"
+      }
+    ]
+  }

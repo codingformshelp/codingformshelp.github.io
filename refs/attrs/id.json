@@ -1,0 +1,9 @@
+{
+    "usg": "Use to set a unique identifier for the element. The id can be used to associate the between the elements. Any style rules which refering the id in the selector will be applied to the element.",
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "A text without any space"
+      }
+    ]
+  }

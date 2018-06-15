@@ -1,0 +1,13 @@
+{
+    "usg": "Use to set the URI of the program which will process the form on submit by clicking the element. It will overrides the action attribute of the button's form owner",
+    "elms": {
+      "button": {},
+      "input": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "A valid URI can be a absolute path or a relative path"
+      }
+    ]
+  }

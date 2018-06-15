@@ -1,10 +1,9 @@
 {
-  "desc": "This attribute value indicates the character encodings that the server accepts. One or more values can be set. The browser uses them for the form submission in the order in which they are listed. If this attribute is not set broswer will use same encoding as that of the document containing the form element.",
-  "elms": [
-    {
-      "form": "accept-charset"
-    }
-  ],
+  "usg": "Use to set the character encodings that the server accepts for the form data. One or more values can be set. The browser uses them for the form submission in the order in which they are listed. If this attribute is not set broswer will use same encoding as that of the document containing the form element.",
+  "elms": {
+      "form": {
+      }
+    },
   "vals": [
     {
       "nm": "<text>",

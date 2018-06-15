@@ -1,0 +1,17 @@
+{
+    "usg": "Use to set the id of the element for which the label is for.",
+    "elms": {
+      "label": {
+        "key": "label-for"
+      },
+      "output": {
+        "key": "output-for"
+      }
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "Value of the id attribute of the element for which the label is for"
+      }
+    ]
+  }

@@ -1,0 +1,6 @@
+{
+    "usg": "Use to set an input control of type checkbox or radio selected / checked on page load.",
+    "elms": {
+      "input": {}
+    }
+  }

@@ -1,0 +1,12 @@
+{
+    "usg": "Use to set the id of the datalist element. The datalist can display a predefined list of options.",
+    "elms": {
+      "input": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "Id of the associated datalist element."
+      }
+    ]
+  }

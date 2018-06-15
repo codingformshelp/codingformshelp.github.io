@@ -1,0 +1,11 @@
+{
+    "usg": "Use to specify that multiple values can be selected depends on the element type.",
+    "elms": {
+      "input": {
+        "desc": "it is a valid attribute if the type attribute value is 'file'. Then it allows to select multiple files."
+      },
+      "select": {
+        "desc": "it allows to select multiple options."
+      }
+    }
+  }

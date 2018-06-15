@@ -1,0 +1,13 @@
+{
+    "usg": "Use to set the content of the element editable in browser. If this attribute is not set, its default value is inherited from its parent element.",
+    "vals": [
+      {
+        "nm": true,
+        "desc": "Sets the content editable"
+      },
+      {
+        "nm": false,
+        "desc": "Sets the content not editable"
+      }
+    ]
+  }

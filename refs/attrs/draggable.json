@@ -1,0 +1,17 @@
+{
+    "usg": "Use to specify whether the element can be dragged, using the HTML Drag and Drop API. By default, text selections, images, and links can be dragged. ",
+    "vals": [
+      {
+        "nm": "true",
+        "desc": "To set element draggable"
+      },
+      {
+        "nm": "false",
+        "desc": "To set element not draggable"
+      },
+      {
+        "nm": "auto",
+        "desc": "To set to use browser default behavior"
+      }
+    ]
+  }

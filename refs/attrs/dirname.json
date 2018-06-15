@@ -1,0 +1,13 @@
+{
+    "usg": "Use to set the direction of the field's text submitted in form. ",
+    "elms": {
+      "input": {},
+      "textarea": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "It should in the format of, value of the element's name attribute followed by the text '.dir'"
+      }
+    ]
+  }

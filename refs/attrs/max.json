@@ -1,0 +1,27 @@
+{
+    "usg": "Use to set the maximum value of the element. Depends on the element type it can be a number or date value.",
+    "elms": {
+      "input": {
+        "key": "number-date-max"
+      },
+      "meter": {
+        "key": "number-max"
+      },
+      "progress": {
+        "key": "number-max"
+      },
+      "textarea": {
+        "key": "number-max"
+      }
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "The number value if the elements value type is number"
+      },
+      {
+        "nm": "<date>",
+        "desc": "A date value in proper format if the elements value type is date"
+      }
+    ]
+  }

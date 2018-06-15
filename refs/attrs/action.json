@@ -1,0 +1,13 @@
+{
+    "usg": "Use to set the URI of a program that processes the form data when it is submitted. This value can be overridden by a <i>formaction</i> attribute on a <i>button</i> or <i>input</i> element.",
+    "elms": {
+        "form": {
+        }
+    },
+    "vals": [
+        {
+            "nm": "<text>",
+            "desc": "The URI of a program that processes the form data. It can be an absolute URI or a relative URI."
+        }
+    ]
+}

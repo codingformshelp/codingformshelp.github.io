@@ -1,0 +1,17 @@
+{
+    "usg": "Use to set the id(s) of associated element(s).",
+    "elms": {
+      "label": {
+        "key": "label-for"
+      },
+      "output": {
+        "key": "output-for"
+      }
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "One or more ids of the associated elements."
+      }
+    ]
+  }

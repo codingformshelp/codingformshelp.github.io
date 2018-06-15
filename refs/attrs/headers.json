@@ -1,0 +1,13 @@
+{
+    "usg": "Use to set the ids of the related table headers",
+    "elms": {
+      "td": {},
+      "th": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "One or more id values of related table headers"
+      }
+    ]
+  }

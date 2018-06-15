@@ -1,0 +1,20 @@
+{
+    "usg": "Use to set the id of the form to which the field element belongs. The form element need not be an ancestor the element. If this attribute is not set the element will be associated to an ancestor form element, if one exists.",
+    "elms": {
+      "button": {},
+      "fieldset": {},
+      "input": {},
+      "label": {},
+      "meter": {},
+      "object": {},
+      "output": {},
+      "select": {},
+      "textarea": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "The value of the id attribute of the form."
+      }
+    ]
+  }

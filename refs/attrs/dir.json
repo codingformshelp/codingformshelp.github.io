@@ -1,0 +1,17 @@
+{
+    "usg": "Use to set the direction of the text content in the element.",
+    "vals": [
+      {
+        "nm": "ltr",
+        "desc": "<i>Left to right</i> and is to be used for languages that are written from the left to the right (like English)"
+      },
+      {
+        "nm": "rtl",
+        "desc": "<i>Right to left</i> and is to be used for languages that are written from the right to the left (like Arabic)"
+      },
+      {
+        "nm": "auto",
+        "desc": "Text direction will be decided by browser. It uses a basic algorithm as it parses the characters inside the element until it finds a character with a strong directionality, then apply that directionality to the whole element"
+      }
+    ]
+  }

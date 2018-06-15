@@ -1,0 +1,27 @@
+{
+    "usg": "Use to set the minimum value of the input element. Depends on the type it can be a number or date value.",
+    "elms": {
+      "input": {
+        "key": "number-date-max"
+      },
+      "meter": {
+        "key": "number-max"
+      },
+      "progress": {
+        "key": "number-max"
+      },
+      "textarea": {
+        "key": "number-max"
+      }
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "The number value if the element's type attribute is not date"
+      },
+      {
+        "nm": "<date>",
+        "desc": "A date value in proper format if the element's type attribute value is date"
+      }
+    ]
+  }

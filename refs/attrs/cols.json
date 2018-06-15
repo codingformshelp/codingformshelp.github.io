@@ -1,0 +1,12 @@
+{
+    "usg": "Use to set the visible width of the textarea element, in average character widths. If it is specified, it must be a positive integer. If it is not specified, the default value is 20.",
+    "elms": {
+      "textarea": {}
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "A positive number"
+      }
+    ]
+  }

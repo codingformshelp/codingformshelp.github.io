@@ -1,0 +1,18 @@
+{
+  "usg": "Use to set the resource request with cross-origin (CORS) header and to set header credential option. This is applicable for the requests for resources from other domains.",
+  "elms": {
+    "img": {
+      "desc": "the CORS-enabled images can be reused in the <canvas> element."
+    }
+  },
+  "vals": [
+    {
+      "nm": "anonymous",
+      "desc": "A cross-origin request (i.e., with Origin: HTTP header) is performed. But no credential is sent."
+    },
+    {
+      "nm": "use-credentials",
+      "desc": "A cross-origin request (i.e., with Origin: HTTP header) performed with credential is sent (i.e., a cookie, a certificate, and HTTP Basic authentication is performed). "
+    }
+  ]
+}

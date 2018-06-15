@@ -1,0 +1,9 @@
+{
+    "usg": "Use to set one or more class names. In that case the style rules defined in style sheets or style blocks which have the selectors containing the class names will be applied to the element.",
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "Class names"
+      }
+    ]
+  }

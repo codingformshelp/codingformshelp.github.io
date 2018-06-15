@@ -1,0 +1,13 @@
+{
+    "usg": "Use to specify the language of the linked resource.",
+    "elms": {
+      "a": {},
+      "area": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "The text can be a language code"
+      }
+    ]
+  }

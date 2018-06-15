@@ -1,0 +1,6 @@
+{
+    "usg": "Use to specify the image is part of a server-side image-map. If so, the precise coordinates of a click are sent to the server as a URL query string.",
+    "elms": {
+      "img": {}
+    }
+  }

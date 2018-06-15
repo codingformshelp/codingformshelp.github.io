@@ -1,0 +1,9 @@
+{
+    "usg": "Use to specify that the element should automatically get focus when the page loads. If the attribute is set to multiple elements in a page the result depends on the browser implementation. Some browsers set focus to first element and others to last element with the attribute.",
+    "elms": {
+      "button": {},
+      "input": {},
+      "select": {},
+      "textarea": {}
+    }
+  }

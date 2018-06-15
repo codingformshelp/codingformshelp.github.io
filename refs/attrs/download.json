@@ -1,0 +1,13 @@
+{
+    "usg": "Use to specify to download the URL on click instead navigating to it. ",
+    "elms": {
+      "a": {},
+      "area": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "Value for this attribute is optional. If set that will be used as the default filename but user will be able to change that value from the file location selector dialog."
+      }
+    ]
+  }

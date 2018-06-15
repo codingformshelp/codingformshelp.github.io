@@ -1,0 +1,9 @@
+{
+    "usg": "Use to set language of the content of the element.",
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "The text value has to be a valid language code."
+      }
+    ]
+  }

@@ -1,9 +1,0 @@
-{
-    "desc": "The accesskey attribute specifies a shortcut key to activate/focus an element. The operation to activate the accesskey depends on <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey\" target=\"_blank\">browser and its platform</a>.",
-    "vals": [
-        {
-        "nm": "<text>",
-        "desc": "The value must be a single printable character."
-        }
-    ]
-}

@@ -1,0 +1,7 @@
+{
+    "usg": "Use to set playing the media automatically as soon as it can do so, without waiting for the entire file to finish downloading.",
+    "elms": {
+      "audio": {},
+      "video": {}
+    }
+  }

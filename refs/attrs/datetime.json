@@ -1,0 +1,20 @@
+{
+    "usg": "Use to set the date-time meta info. The value wont be displayed in browser but it can be used by it to provide additional features like reminders or search engines to offer better results.",
+    "elms": {
+      "del": {
+        "desc": "to specify the date & time when text was deleted."
+      },
+      "ins": {
+        "desc": "to specify the date & time when text was inserted."
+      },
+      "time": {
+        "desc": ""
+      }
+    },
+    "vals": [
+      {
+        "nm": "<date-time>",
+        "desc": "A <a href=\"https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string-with-optional-time\">valid date</a> string with optional time"
+      }
+    ]
+  }

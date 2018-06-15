@@ -1,0 +1,17 @@
+{
+    "usg": "Use to set the id(s) of the element(s) that are associated to the calculation of output.",
+    "elms": {
+      "label": {
+        "key": "label-for"
+      },
+      "output": {
+        "key": "output-for"
+      }
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "The value of the id attribute of the elements that are associated with the calculation of the output"
+      }
+    ]
+  }

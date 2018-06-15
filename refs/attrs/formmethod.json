@@ -1,0 +1,17 @@
+{
+    "usg": "Use to set the HTTP method to submit form data. This will override the value of the owner form method attribute.",
+    "elms": {
+      "button": {},
+      "input": {}
+    },
+    "vals": [
+      {
+        "nm": "get",
+        "desc": "Uses the HTTP method GET. The data from the form are appended to the form attribute URI, with a '?' as a separator, and the resulting URI is sent to the server."
+      },
+      {
+        "nm": "post",
+        "desc": "Uses the HTTP method POST. The data from the form are included in the body of the form and sent to the server."
+      }
+    ]
+  }

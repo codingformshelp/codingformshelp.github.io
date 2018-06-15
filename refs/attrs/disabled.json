@@ -1,0 +1,12 @@
+{
+    "usg": "Use to specify to disable the element. A disabled element does not allow to click or enter text. ",
+    "elms": {
+      "button": {},
+      "fieldset": {},
+      "input": {},
+      "optgroup": {},
+      "option": {},
+      "select": {},
+      "textarea": {}
+    }
+  }

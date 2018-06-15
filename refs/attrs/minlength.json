@@ -1,0 +1,13 @@
+{
+    "usg": "Use to set the minimum number of characters that the user should enter.",
+    "elms": {
+      "input": {},
+      "textarea": {}
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "The number value for the minimum number of characters should enter"
+      }
+    ]
+  }

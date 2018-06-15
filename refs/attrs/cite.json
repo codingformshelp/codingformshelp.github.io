@@ -1,0 +1,15 @@
+{
+  "usg": "Use to specify the path of source doc / a reference for content in the element. This attribute doesn't set any behavior for the element but used more for information purpose which can be used search engine or other programs.",
+  "elms": {
+    "blockquote": {},
+    "datalist": {},
+    "ins": {},
+    "q": {}
+  },
+  "vals": [
+    {
+      "nm": "<text>",
+      "desc": "A URI text which can be an absolute or a relative path"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "usg": "Use to set the number of cells to span the column in table. Its default value is 1. Values higher than 1000 will be considered as incorrect and will be set to the default value, 1.",
+    "elms": {
+      "td": {},
+      "th": {}
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "A positive number"
+      }
+    ]
+  }

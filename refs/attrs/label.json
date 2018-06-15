@@ -1,0 +1,20 @@
+{
+  "usg": "Use to set a short text for the element.",
+  "elms": {
+    "optgroup": {
+      "desc": "it is a required attribute. The attribute value will be used as the text of the element."
+    },
+    "option": {
+      "desc": "if set its value is used as the text of the element."
+    },
+    "track": {
+      "desc": "displayed as the title in the listing."
+    }
+  },
+  "vals": [
+    {
+      "nm": "<text>",
+      "desc": "Usually a short description in one or two words"
+    }
+  ]
+}

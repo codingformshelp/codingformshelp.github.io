@@ -1,0 +1,29 @@
+{
+    "usg": "Use to set where to display the response from the form submit. This will override the target value of the owner form element.",
+    "elms": {
+      "button": {},
+      "input": {}
+    },
+    "vals": [
+      {
+        "nm": "_self",
+        "desc": "Loads in the same frame. Default value"
+      },
+      {
+        "nm": "_blank",
+        "desc": "Loads the response in a new unnamed window/tab"
+      },
+      {
+        "nm": "_parent",
+        "desc": "Loads the response in the parent frame. If no parent will behave as _self"
+      },
+      {
+        "nm": "_top",
+        "desc": "Loads the response in the top most frame. If no parent will behave as _self"
+      },
+      {
+        "nm": "<text>",
+        "desc": "The response is displayed in an iframe named with the given value."
+      }
+    ]
+  }

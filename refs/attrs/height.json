@@ -1,0 +1,22 @@
+{
+    "usg": "Use to set the height of the element in pixels.",
+    "elms": {
+      "canvas": {
+        "desc": "set as the height of coordinate space. The default value is 150."
+      },
+      "embed": {},
+      "iframe": {},
+      "img": {},
+      "input": {
+        "desc": "the attribte is valid only if the value of the attribute <i>type</i> is set to 'image'."
+      },
+      "object": {},
+      "video": {}
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "A positive number. Height will be set in pixels."
+      }
+    ]
+  }

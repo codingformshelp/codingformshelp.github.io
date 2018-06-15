@@ -1,0 +1,12 @@
+{
+    "usg": "Use to set the upper value of the low range of the guage. Then any selection between min value to low will be indicated as a lower value in the range is selected.",
+    "elms": {
+      "meter": {}
+    },
+    "vals": [
+      {
+        "nm": "number",
+        "desc": "A value higher than the min attribute value and less than high & max attributes values"
+      }
+    ]
+  }

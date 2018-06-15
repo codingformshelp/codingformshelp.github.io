@@ -1,0 +1,12 @@
+{
+    "usg": "Use to set the start value of the higher range in the guage. Then any selection between high value to max will be indicated as a higher value in the range is selected. ",
+    "elms": {
+      "meter": {}
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "A value higher than the min & low attributes values and less than max attribute value"
+      }
+    ]
+  }

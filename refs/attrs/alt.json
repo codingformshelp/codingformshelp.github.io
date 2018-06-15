@@ -1,0 +1,18 @@
+{
+    "usg": "Use to set an alternative text to display in case the image cannot be displayed in browser for some reason like slow connection, an error in the src attribute, or if the user uses a screen reader.<br><br>Omitting this attribute altogether indicates that the image is a key part of the content, and no textual equivalent is available. Setting this attribute to an empty string indicates that this image is not a key part of the content.",
+    "elms": {
+        "area": {
+            "desc": "this attribute is required if the href attribute is used."
+        },
+        "img": {},
+        "input": {
+            "desc": "it is a valid attribute only if its <i>type</i> attribute value is set to <i>image</i>."
+        }
+    },
+    "vals": [
+        {
+            "nm": "<text>",
+            "desc": "A text which is a description about the image"
+        }
+    ]
+}

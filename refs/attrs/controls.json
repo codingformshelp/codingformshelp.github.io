@@ -1,0 +1,7 @@
+{
+    "usg": "Use to specify that the playback controls should be displayed for the media. The controls will include volume, seeking, and pause/resume playback.",
+    "elms": {
+      "audio": {},
+      "video": {}
+    }
+  }

@@ -1,0 +1,13 @@
+{
+    "usg": "Use to set the maximum number of characters that the user can enter.",
+    "elms": {
+      "input": {},
+      "textarea": {}
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "The number value for the maximum number of characters can enter"
+      }
+    ]
+  }

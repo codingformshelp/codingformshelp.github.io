@@ -1,0 +1,21 @@
+{
+    "usg": "Use to set whether input elements can by default have their values automatically filled by the browser based on previously typed in values.<br><br>It is possible to have autocomplete \"on\" for the form, and \"off\" for specific input fields, or vice versa.",
+    "elms": {
+      "form": {},
+      "input": {}
+    },
+    "vals": [
+      {
+        "nm": "off",
+        "desc": "The user must explicitly enter a value into each field for every use, or the document provides its own auto-completion method; the browser does not automatically complete entries."
+      },
+      {
+        "nm": "on",
+        "desc": "The browser can automatically complete values based on values that the user has previously entered in the form."
+      },
+      {
+        "nm": "<autofill-token>",
+        "desc": "Autofill token refer https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill"
+      }
+    ]
+  }

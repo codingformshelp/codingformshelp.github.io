@@ -1,0 +1,29 @@
+{
+    "usg": "Use to set how the text track is meant to be used.",
+    "elms": {
+      "audio": {},
+      "video": {}
+    },
+    "vals": [
+      {
+        "nm": "captions",
+        "desc": "Closed captions provide a transcription and possibly a translation of audio. Suitable for deaf users"
+      },
+      {
+        "nm": "chapters",
+        "desc": "Chapter titles are intended to be used when the user is navigating the media resource."
+      },
+      {
+        "nm": "descriptions",
+        "desc": "Textual description of the video content. Suitable for users who are blind or where the video cannot be seen."
+      },
+      {
+        "nm": "metadata",
+        "desc": "Tracks used by scripts. Not visible to the user"
+      },
+      {
+        "nm": "subtitles",
+        "desc": "Subtitles provide translation of content that cannot be understood by the viewer. For example dialogue or text that is not English in an English language film.Subtitles may contain additional content, usually extra background information."
+      }
+    ]
+  }

@@ -1,0 +1,27 @@
+{
+    "usg": "Use to set the minimum value of the element. Depends on the element it can be a number or date value.",
+    "elms": {
+      "input": {
+        "key": "number-date-min"
+      },
+      "meter": {
+        "key": "number-min"
+      },
+      "progress": {
+        "key": "number-min"
+      },
+      "textarea": {
+        "key": "number-min"
+      }
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "The number value if the elements value type is number"
+      },
+      {
+        "nm": "<date>",
+        "desc": "A date value in proper format if the elements value type is date"
+      }
+    ]
+  }

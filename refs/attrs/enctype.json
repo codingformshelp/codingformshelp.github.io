@@ -1,0 +1,20 @@
+{
+    "usg": "Use to set the encode type of the submitting POST data of the form. This value can be overridden by a formenctype attribute on a button or input element.",
+    "elms": {
+      "form": {}
+    },
+    "vals": [
+      {
+        "nm": "application/x-www-form-urlencoded",
+        "desc": "Default value. In this case all characters are encoded before sent (spaces are converted to \"+\" symbols, and special characters are converted to ASCII HEX values)"
+      },
+      {
+        "nm": "multipart/form-data",
+        "desc": "To set element not draggableNo characters are encoded. The value used for an input element with the typeattribute set to \"file\""
+      },
+      {
+        "nm": "text/plain",
+        "desc": "Spaces are converted to \"+\" symbols, but no special characters are encoded"
+      }
+    ]
+  }

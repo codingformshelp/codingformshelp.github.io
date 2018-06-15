@@ -1,0 +1,14 @@
+{
+  "usg": "Use to set the hyperlink url or url fragment. The url can point to an external page / resource or internal location.",
+  "elms": {
+    "a": {},
+    "area": {},
+    "base": {}
+  },
+  "vals": [
+    {
+      "nm": "<text>",
+      "desc": "The text value can be an absoulte URL, relative URL or a URL fragment"
+    }
+  ]
+}
