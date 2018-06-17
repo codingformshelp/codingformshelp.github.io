@@ -1,0 +1,7 @@
+{
+    "usg": "Use to set the element's value not editable.",
+    "elms": {
+      "input": {},
+      "teaxtarea": {}
+    }
+  }

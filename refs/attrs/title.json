@@ -1,0 +1,9 @@
+{
+    "usg": "Use to specify some extra information about the element. Some browsers will show it as tooltip on mouse hover.",
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "A short description text"
+      }
+    ]
+  }

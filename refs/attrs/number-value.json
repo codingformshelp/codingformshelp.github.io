@@ -1,0 +1,35 @@
+{
+    "usg": "Use to set a value for the element.",
+    "elms": {
+      "button": {
+        "key": "string-value"
+      },
+      "input": {
+        "key": "string-value"
+      },
+      "li": {
+        "key": "number-value",
+        "desc": "it is displayed as index in the ordered list. "
+      },
+      "meter": {
+        "key": "number-value",
+        "desc": "set as the current numeric value."
+      },
+      "option": {
+        "key": "string-value"
+      },
+      "param": {
+        "key": "string-value"
+      },
+      "progress": {
+        "key": "number-value",
+        "desc": "it is used to mark how much of the task has been completed."
+      }
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "A numeric value"
+      }
+    ]
+  }

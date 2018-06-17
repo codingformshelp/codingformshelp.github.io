@@ -1,0 +1,61 @@
+{
+    "usg": "Use to specify the relationship of the linked resource. It is more for information which search engines or other programs can utilize.",
+    "elms": {
+      "a": {},
+      "area": {}
+    },
+    "vals": [
+      {
+        "nm": "alternate",
+        "desc": "An alternative link in terms of another medium / language / format"
+      },
+      {
+        "nm": "author",
+        "desc": "Provides details / contact of the auther of the document"
+      },
+      {
+        "nm": "bookmark",
+        "desc": "Permanent URL used for bookmarking"
+      },
+      {
+        "nm": "external",
+        "desc": "Link to an external site"
+      },
+      {
+        "nm": "help",
+        "desc": "A resource provides further details / help"
+      },
+      {
+        "nm": "license",
+        "desc": "A resource describing the licensing information"
+      },
+      {
+        "nm": "next",
+        "desc": "A resource that is continuation of current one"
+      },
+      {
+        "nm": "nofollow",
+        "desc": "To specify not to follow the linked resource because it is not endorsed by the author"
+      },
+      {
+        "nm": "noopener",
+        "desc": "To specify not to set Window.opener property for the url opened frame"
+      },
+      {
+        "nm": "noreferrer",
+        "desc": "To specify not to send an HTTP referer header if the user navigates to the hyperlink"
+      },
+      {
+        "nm": "prev",
+        "desc": "To specify previous resource in the series"
+      },
+      {
+        "nm": "search",
+        "desc": "To specify linked resource is specially designed for searching current one "
+      },
+      {
+        "nm": "tag",
+        "desc": "A resource describing a tag that applies to this document."
+      }
+    ]
+  }

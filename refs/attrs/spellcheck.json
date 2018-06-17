@@ -1,0 +1,13 @@
+{
+    "usg": "Use to specify to perform built-in spellcheck on element's text.",
+    "vals": [
+      {
+        "nm": "false",
+        "desc": "Turn off the spellcheck"
+      },
+      {
+        "nm": "true",
+        "desc": "Turn on the spellcheck"
+      }
+    ]
+  }

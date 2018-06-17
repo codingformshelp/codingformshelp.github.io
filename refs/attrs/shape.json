@@ -1,0 +1,24 @@
+{
+    "usg": "Use to set the shape of the area. It is used together with the attribute coords.",
+    "elms": {
+      "area": {}
+    },
+    "vals": [
+      {
+        "nm": "circle",
+        "desc": "circle region"
+      },
+      {
+        "nm": "default",
+        "desc": "entire region"
+      },
+      {
+        "nm": "poly",
+        "desc": "polygonal region"
+      },
+      {
+        "nm": "rect",
+        "desc": "rectangular region"
+      }
+    ]
+  }

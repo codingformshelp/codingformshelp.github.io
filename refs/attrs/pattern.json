@@ -1,0 +1,12 @@
+{
+    "usg": "Use to set a regular expression text to match the value of the input element.",
+    "elms": {
+      "input": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "A valid regular expression"
+      }
+    ]
+  }

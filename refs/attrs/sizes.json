@@ -1,0 +1,12 @@
+{
+    "usg": "Use to set the sizes per viewport size.",
+    "elms": {
+      "img": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "A coma separated list of combinations of viewport size & element size with a default value as the last value"
+      }
+    ]
+  }

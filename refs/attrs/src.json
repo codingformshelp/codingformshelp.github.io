@@ -1,0 +1,21 @@
+{
+    "usg": "Use to set the source location of the resource to be loaded in the element.",
+    "elms": {
+      "audio": {},
+      "embed": {},
+      "iframe": {},
+      "img": {},
+      "input": {
+        "desc": "it is applicable only of the type is 'image'"
+      },
+      "source": {},
+      "track": {},
+      "video": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "An absolute or relative URL"
+      }
+    ]
+  }

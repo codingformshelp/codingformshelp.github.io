@@ -1,0 +1,41 @@
+{
+    "usg": "Use to set the type of the button in relation with a form.",
+    "elms": {
+      "a": {
+        "key": "media-type"
+      },
+      "area": {
+        "key": "media-type"
+      },
+      "button": {},
+      "embed": {
+        "key": "media-type"
+      },
+      "input": {
+        "key": "input-type"
+      },
+      "object": {
+        "key": "media-type"
+      },
+      "ol": {
+        "key": "ol-type"
+      },
+      "source": {
+        "key": "media-type"
+      }
+    },
+    "vals": [
+      {
+        "nm": "button",
+        "desc": "A plain button and no form action "
+      },
+      {
+        "nm": "reset",
+        "desc": "A button on click resets the form-data to its initial value"
+      },
+      {
+        "nm": "submit",
+        "desc": "A button on click submits form-data. This is the default if the attribute is not specified."
+      }
+    ]
+  }

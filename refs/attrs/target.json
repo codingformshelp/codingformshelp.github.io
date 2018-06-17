@@ -1,0 +1,31 @@
+{
+    "usg": "Use to sepcify where to display the linked URL or the reponse.",
+    "elms": {
+      "a": {},
+      "area": {},
+      "base": {},
+      "form": {}
+    },
+    "vals": [
+      {
+        "nm": "_self",
+        "desc": "Loads in the same frame. Default value"
+      },
+      {
+        "nm": "_blank",
+        "desc": "Loads in a new unnamed window/tab"
+      },
+      {
+        "nm": "_parent",
+        "desc": "Loads in the parent frame. If no parent will behave as _self"
+      },
+      {
+        "nm": "_top",
+        "desc": "Loads in the top most frame. If no parent will behave as _self"
+      },
+      {
+        "nm": "<text>",
+        "desc": "Displayed in an iframe named with the given value."
+      }
+    ]
+  }

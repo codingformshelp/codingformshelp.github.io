@@ -1,0 +1,24 @@
+{
+    "usg": "Use to set the table header related cells. Sets is it a header for a column, row, or group of columns or rows",
+    "elms": {
+      "th": {}
+    },
+    "vals": [
+      {
+        "nm": "col",
+        "desc": "The header relates to all cells of the column it belongs to"
+      },
+      {
+        "nm": "colgroup",
+        "desc": "The header belongs to a colgroup and relates to all of its cells"
+      },
+      {
+        "nm": "row",
+        "desc": "The header relates to all cells of the row it belongs to"
+      },
+      {
+        "nm": "rowgroup",
+        "desc": "The header belongs to a rowgroup and relates to all of its cells"
+      }
+    ]
+  }

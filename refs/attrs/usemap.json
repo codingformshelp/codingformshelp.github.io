@@ -1,0 +1,15 @@
+{
+    "usg": "Use to associate a map element so that the element can be used as a map with cickable areas.",
+    "elms": {
+      "img": {
+        "desc": "cannot use this attribute if it is a descendant of an 'a' or 'button' element."
+      },
+      "object": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "A hash-name reference to a map element; that is a '#' followed by the value of name attribute of associated map element"
+      }
+    ]
+  }

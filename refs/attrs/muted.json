@@ -1,0 +1,7 @@
+{
+    "usg": "Use to specify to mute the audio on start.",
+    "elms": {
+      "audio": {},
+      "video": {}
+    }
+  }

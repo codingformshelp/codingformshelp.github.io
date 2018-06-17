@@ -1,0 +1,30 @@
+{
+    "usg": "Use to specify the type of the element or its content.",
+    "elms": {
+      "a": {
+        "key": "media-type"
+      },
+      "area": {
+        "key": "media-type"
+      },
+      "button": {
+        "key": "button-type"
+      },
+      "embed": {
+        "key": "media-type"
+      },
+      "input": {
+        "key": "input-type"
+      },
+      "object": {
+        "key": "media-type"
+      },
+      "ol": {
+        "key": "ol-type"
+      },
+      "source": {
+        "key": "media-type"
+      }
+    },
+    "vals": []
+  }

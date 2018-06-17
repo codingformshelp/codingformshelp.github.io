@@ -1,0 +1,13 @@
+{
+    "usg": "Use to set the number of rows to span the cell in table. Values higher than 65534 are clipped down to 65534.",
+    "elms": {
+      "td": {},
+      "th": {}
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "A positive number"
+      }
+    ]
+  }

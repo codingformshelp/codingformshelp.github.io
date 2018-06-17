@@ -1,0 +1,20 @@
+{
+    "usg": "Use to set the width of the element in pixels.",
+    "elms": {
+      "canvas": {},
+      "embed": {},
+      "iframe": {},
+      "img": {},
+      "input": {
+        "desc": "it is only applicable only if the type is 'image'."
+      },
+      "object": {},
+      "video": {}
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "A numeric value"
+      }
+    ]
+  }

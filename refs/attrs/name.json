@@ -1,0 +1,36 @@
+{
+    "usg": "Use to a name for the element. The value of the attribute is used to reference/associate the element from other elements. From javascript also it can be used to reference the element.",
+    "elms": {
+      "button": {
+        "desc": "it is submitted with form data. The name value need not be unique but can be shared among other with button elements."
+      },
+      "fieldset": {
+        "desc": "it is submitted with form data."
+      },
+      "form": {
+        "desc": "it should be a unique in the document."
+      },
+      "iframe": {
+        "desc": "it can be used as the value of the target / formtarget attribute of other other elements."
+      },
+      "input": {
+        "desc": "it is submitted with form data. "
+      },
+      "map": {
+        "desc": "it is used to associate with image element."
+      },
+      "object": {
+        "desc": ""
+      },
+      "output": {},
+      "param": {},
+      "select": {},
+      "textarea": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "A non-empty string"
+      }
+    ]
+  }

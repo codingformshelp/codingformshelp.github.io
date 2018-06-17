@@ -1,0 +1,12 @@
+{
+    "usg": "Use to set an image as a preview of video.",
+    "elms": {
+      "video": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "An absolute or relative URL of an image"
+      }
+    ]
+  }

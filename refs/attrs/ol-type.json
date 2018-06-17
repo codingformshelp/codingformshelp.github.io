@@ -1,0 +1,49 @@
+{
+    "usg": "Use to set the numbering type of the ordered list.",
+    "elms": {
+      "a": {
+        "key": "media-type"
+      },
+      "area": {
+        "key": "media-type"
+      },
+      "button": {},
+      "embed": {
+        "key": "media-type"
+      },
+      "input": {
+        "key": "input-type"
+      },
+      "object": {
+        "key": "media-type"
+      },
+      "ol": {
+        "key": "ol-type"
+      },
+      "source": {
+        "key": "media-type"
+      }
+    },
+    "vals": [
+      {
+        "nm": "1",
+        "desc": "Number, default value"
+      },
+      {
+        "nm": "a",
+        "desc": "Lowercase letters"
+      },
+      {
+        "nm": "A",
+        "desc": "Uppercase letters"
+      },
+      {
+        "nm": "i",
+        "desc": "Lowercase Roman numerals"
+      },
+      {
+        "nm": "I",
+        "desc": "Uppercase Roman numerals"
+      }
+    ]
+  }

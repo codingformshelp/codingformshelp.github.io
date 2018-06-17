@@ -1,0 +1,11 @@
+{
+    "usg": "Use to specify that the element is fully visible.",
+    "elms": {
+      "details": {
+        "desc": "their content made visible"
+      },
+      "dialog": {
+        "desc": "it makes the element set active and makes available for interaction."
+      }
+    }
+  }

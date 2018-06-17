@@ -1,0 +1,21 @@
+{
+    "usg": "Use to set media preload option.",
+    "elms": {
+      "audio": {},
+      "video": {}
+    },
+    "vals": [
+      {
+        "nm": "auto",
+        "desc": "To indicate the media should downloaded on page load"
+      },
+      {
+        "nm": "metadata",
+        "desc": "To indicate only load metadata on page load"
+      },
+      {
+        "nm": "none",
+        "desc": "To indicate don't the media on page load"
+      }
+    ]
+  }

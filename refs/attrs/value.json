@@ -1,0 +1,36 @@
+{
+    "usg": "Use to set a value for the element. The value of this can be text or number depends on the type of the element.",
+    "elms": {
+      "button": {
+        "key": "string-value"
+      },
+      "input": {
+        "key": "string-value"
+      },
+      "li": {
+        "key": "number-value"
+      },
+      "meter": {
+        "key": "number-value"
+      },
+      "option": {
+        "key": "string-value"
+      },
+      "param": {
+        "key": "string-value"
+      },
+      "progress": {
+        "key": "number-value"
+      }
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "A text value"
+      },
+      {
+        "nm": "<number>",
+        "desc": "A numeric value"
+      }
+    ]
+  }

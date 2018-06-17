@@ -1,0 +1,6 @@
+{
+    "usg": "Use to specify not to do in-built form validation. Based on the different attributes set to the form field elements on submission browser can perform various validations such as required, input types (like email, password), min, max etc. Setting this will turn off such validations. This will override the novalidate attribute of the owner form element.",
+    "elms": {
+      "form": {}
+    }
+  }

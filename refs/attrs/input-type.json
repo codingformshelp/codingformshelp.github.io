@@ -1,0 +1,115 @@
+{
+    "usg": "Use to set the type of the input to display.",
+    "elms": {
+      "a": {
+        "key": "media-type"
+      },
+      "area": {
+        "key": "media-type"
+      },
+      "button": {},
+      "embed": {
+        "key": "media-type"
+      },
+      "input": {},
+      "object": {
+        "key": "media-type"
+      },
+      "ol": {
+        "key": "ol-type"
+      },
+      "source": {
+        "key": "media-type"
+      }
+    },
+    "vals": [
+      {
+        "nm": "button",
+        "desc": "A standard button"
+      },
+      {
+        "nm": "checkbox",
+        "desc": "A checkbox control"
+      },
+      {
+        "nm": "color",
+        "desc": "A color picker control"
+      },
+      {
+        "nm": "date",
+        "desc": "A control for entering a date (year, month, and day, with no time)"
+      },
+      {
+        "nm": "datetime-local",
+        "desc": "A control for entering a date and time, with no time zone"
+      },
+      {
+        "nm": "email",
+        "desc": "A control for entering email"
+      },
+      {
+        "nm": "file",
+        "desc": "A control that allows to select a file. Use the accept attribute to define the types of files that the control can select."
+      },
+      {
+        "nm": "hidden",
+        "desc": "A control that is not displayed but whose value is submitted to the server"
+      },
+      {
+        "nm": "image",
+        "desc": "A graphical submit button. Set the src attribute to define the source of the image and the alt attribute to define alternative text."
+      },
+      {
+        "nm": "month",
+        "desc": "A control for entering a month and year, with no time zone"
+      },
+      {
+        "nm": "number",
+        "desc": "A control accepts only number"
+      },
+      {
+        "nm": "password",
+        "desc": "A single-line text field whose value is obscured"
+      },
+      {
+        "nm": "radio",
+        "desc": "A radio button, allowing a single value to be selected out of multiple choices"
+      },
+      {
+        "nm": "range",
+        "desc": "A range control, like slider"
+      },
+      {
+        "nm": "reset",
+        "desc": "A button that resets the contents of the form to default values"
+      },
+      {
+        "nm": "search",
+        "desc": "A text field for entering a search string"
+      },
+      {
+        "nm": "submit",
+        "desc": "A button that submits the form"
+      },
+      {
+        "nm": "tel",
+        "desc": "A control for entering a telephone number"
+      },
+      {
+        "nm": "text",
+        "desc": "A single-line text field"
+      },
+      {
+        "nm": "time",
+        "desc": "A control for entering a time value with no time zone"
+      },
+      {
+        "nm": "url",
+        "desc": "A field for entering a URL"
+      },
+      {
+        "nm": "week",
+        "desc": "A field for entering a URL"
+      }
+    ]
+  }

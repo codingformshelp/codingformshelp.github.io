@@ -1,0 +1,9 @@
+{
+    "usg": "Use to set keyboard navigation nature and order for an element. ",
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "A negative value means that the element should be focusable, but should not be reachable via sequential keyboard navigation.<br><br>0 means that the element should be focusable and reachable via sequential keyboard navigation, but its relative order is defined by the platform convention.<br><br>A positive value means that the element should be focusable and reachable via sequential keyboard navigation; the order in which the elements are focused is the increasing value of the tabindex. If several elements share the same tabindex, their relative order follows their relative positions in the document."
+      }
+    ]
+  }

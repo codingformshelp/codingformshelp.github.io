@@ -1,0 +1,13 @@
+{
+    "usg": "Use to set a hint text to explain the expected value.",
+    "elms": {
+      "input": {},
+      "textarea": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "A hint text for the entry"
+      }
+    ]
+  }

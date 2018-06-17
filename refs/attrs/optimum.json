@@ -1,0 +1,12 @@
+{
+    "usg": "Use to specify optimal value in the range so it can be indicated in the UI appropriatley.",
+    "elms": {
+      "meter": {}
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "A valid numeric value"
+      }
+    ]
+  }

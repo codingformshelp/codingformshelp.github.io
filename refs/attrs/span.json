@@ -1,0 +1,13 @@
+{
+    "usg": "Use to set the number of consecutive columns the element extend in the table.",
+    "elms": {
+      "col": {},
+      "colgroup": {}
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "A positive number greater than 0"
+      }
+    ]
+  }

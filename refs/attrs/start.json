@@ -1,0 +1,12 @@
+{
+    "usg": "Use to set the start value for numbering the individual list items.",
+    "elms": {
+      "ol": {}
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "A numeric value even if the type is not numeric"
+      }
+    ]
+  }

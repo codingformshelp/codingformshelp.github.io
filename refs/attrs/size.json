@@ -1,0 +1,17 @@
+{
+    "usg": "Use to set the width of the element or number of rows depends on the element.",
+    "elms": {
+      "input": {
+        "desc": "it sets the width of the element. It is applicable only if type attribute is set to text, search, tel, url, email, or password, otherwise it is ignored. If the type is set to text or password size is width in number of characters else in number of pixels. Default value is 20."
+      },
+      "select": {
+        "desc": "it sets the number of rows visible."
+      }
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "A positive number"
+      }
+    ]
+  }

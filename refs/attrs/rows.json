@@ -1,0 +1,12 @@
+{
+    "usg": "Use to set the number of visible text lines.",
+    "elms": {
+      "textarea": {}
+    },
+    "vals": [
+      {
+        "nm": "<number>",
+        "desc": "A positive number"
+      }
+    ]
+  }

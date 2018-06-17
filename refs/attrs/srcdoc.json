@@ -1,0 +1,12 @@
+{
+    "usg": "Use to set the content document as an inline text instead of an external URL.",
+    "elms": {
+      "iframe": {}
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "Content as text in proper format"
+      }
+    ]
+  }

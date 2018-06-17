@@ -1,0 +1,35 @@
+{
+    "usg": "Use to specify the type of the element or its content. When the value of type attribute is media type it specifies the media type of the linked URL or embedded content. The value is for informationa purpose, with no built-in functionality.",
+    "elms": {
+      "a": {
+        "key": "media-type"
+      },
+      "area": {
+        "key": "media-type"
+      },
+      "button": {
+        "key": "button-type"
+      },
+      "embed": {
+        "key": "media-type"
+      },
+      "input": {
+        "key": "input-type"
+      },
+      "object": {
+        "key": "media-type"
+      },
+      "ol": {
+        "key": "ol-type"
+      },
+      "source": {
+        "key": "media-type"
+      }
+    },
+    "vals": [
+      {
+        "nm": "<text>",
+        "desc": "A valid media type for the element. A complete list of standard media types can be found here - <a href=\"http://www.iana.org/assignments/media-types/media-types.xhtml\" target=\"_blank\">IANA Media Types</a>"
+      }
+    ]
+  }

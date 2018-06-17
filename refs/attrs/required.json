@@ -1,0 +1,8 @@
+{
+    "usg": "Use to specify a value must be filled in by the user in the element before submitting the owner form.",
+    "elms": {
+      "input": {},
+      "select": {},
+      "textarea": {}
+    }
+  }

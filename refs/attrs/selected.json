@@ -1,0 +1,6 @@
+{
+    "usg": "Use to specify to preselect an option in its owner select element.",
+    "elms": {
+      "option": {}
+    }
+  }
