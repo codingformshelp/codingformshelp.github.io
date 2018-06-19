@@ -1,7 +1,6 @@
 {
     "usg": "Use to set as the default track unless the user's preferences indicate that another track is more appropriate.",
     "elms": {
-      "audio": {},
-      "video": {}
+      "track": {}
     }
   }
