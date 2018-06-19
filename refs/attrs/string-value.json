@@ -5,6 +5,9 @@
         "desc": "the value will be sent to the server if the button is used to submit the form.",
         "key": "string-value"
       },
+      "data": {
+        "key": "string-value"
+      },
       "input": {
         "key": "string-value",
         "desc": "it is used differently depends on the type of it.<br><br>For \"button\", \"reset\", \"submit\", \"text\", \"password\", and \"hidden\"- it defines the text on the control.br><br>For \"checkbox\", \"radio\" used to set as value of selection.<br><br>It cannot be used with the type \"file\"."

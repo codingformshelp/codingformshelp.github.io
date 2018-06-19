@@ -1,0 +1,3 @@
+{
+    "usg": "Use to create an abbreviation element. Intended use of this element is to mark abbreviations or acronyms in content. With the help of the attribute 'title' it is convenient to include lengthier phrases in shorter form. Set the full form as the title can show it on mouse hover."
+  }

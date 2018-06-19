@@ -4,6 +4,9 @@
       "button": {
         "key": "string-value"
       },
+      "data": {
+        "key": "string-value"
+      },
       "input": {
         "key": "string-value"
       },
