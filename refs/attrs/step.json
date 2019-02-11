@@ -1,7 +1,7 @@
 {
     "usg": "Use to set the increment/decrement interval of numeric or date-time value. It is applicable to the input of the types number, range, date, datetime, datetime-local, month, time and week.",
     "elms": {
-      "ol": {}
+      "input": {}
     },
     "vals": [
       {

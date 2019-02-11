@@ -1,0 +1,29 @@
+{
+    "usg": "To set how each line is aligned within a multiline flexbox container.",
+    "vos": [
+      {
+        "n": "flex-start",
+        "d": "Lines are packed toward the start of the flex container"
+      },
+      {
+        "n": "flex-end",
+        "d": "Lines are packed toward the end of the flex container"
+      },
+      {
+        "n": "center",
+        "d": "Lines are packed toward the center of the flex container"
+      },
+      {
+        "n": "space-between",
+        "d": "Lines are evenly distributed in the flex container"
+      },
+      {
+        "n": "space-around",
+        "d": "Lines are evenly distributed in the flex container, with half-size spaces on either end"
+      },
+      {
+        "n": "stretch",
+        "d": "Lines stretch to take up the remaining space"
+      }
+    ]
+  }

@@ -2,22 +2,26 @@
 layout: default
 ---
 {::nomarkdown}
-  <h1 class="ui grey header" id="top" style="text-align: center;">CodingForms Help</h1>
-  <div class="ui divider"></div>
+  <!--h1 class="ui grey header" id="top" style="text-align: center;">CodingForms Help</h1>
+  <div class="ui divider"></div-->
   <p class="firstp" style="text-align: justify;">CodingForms is a forms UI based online coding playground, currently supports HTML & CSS and this help document contains following topics. This help window can be opened by clicking on main toolbar help button or on help links in the editing windows.</p>
   <div class="ui relaxed list">
     <a class="item" href="#goals">
       <i class="genderless blue icon"></i>
       <div class="content">Goals and benefits of the CodingForms</div>
     </a>
-    <a class="item" onclick="gotoUrl({title: 'Video overview of CodingForms', url: 'videooverview.html'});">
+    <a class="item" onclick="postMsg('showTopicDetails', {title: 'Web development basics', subject: 'wpDev'});">
+      <i class="genderless blue icon"></i>
+      <div class="content">Web development basics</div>
+    </a>
+    <a class="item" onclick="postMsg('goto', {title: 'Video overview of CodingForms', url: 'videooverview.html'});">
       <i class="genderless blue icon"></i>
       <div class="content">Video overview of CodingForms</div>
     </a>
-    <a class="item" onclick="gotoUrl({title: 'How to use CodingForms?', url: 'howtocf/index.html'});">
+    <a class="item" onclick="postMsg('showTopicDetails', {title: 'How to use CodingForms?', subject: 'cfHelp'});">
       <i class="genderless blue icon"></i>
       <div class="content">How to use CodingForms?</div>
-    </a>
+    </a>    
 
     <!--div class="item">
       <div class="header">A tutorial on</div>
@@ -28,21 +32,21 @@ layout: default
     </a-->
 
     <div class="item">
-      <div class="header">References to</div>
+      <div class="header">Reference</div>
     </div>
-    <a class="item" onclick="showRefIndex({topic: 'Tags'})">
+    <a class="item" onclick="postMsg('showRefIndex', {topic: 'Tags'})">
       <i class="genderless blue icon"></i>
       <div class="content">HTML tags</div>
     </a>
-    <a class="item" onclick="showRefIndex({topic: 'Attributes'})">
+    <a class="item" onclick="postMsg('showRefIndex', {topic: 'Attributes'})">
       <i class="genderless blue icon"></i>
       <div class="content">Attributes</div>
     </a>
-    <a class="item" onclick="showRefIndex({topic: 'Style properties'})">
+    <a class="item" onclick="postMsg('showRefIndex', {topic: 'Style properties'})">
       <i class="genderless blue icon"></i>
       <div class="content">Style properties</div>
     </a>
-    <a class="item">
+    <a class="item" onclick="postMsg('showRefIndex', {topic: 'CSS selectors'})">
       <i class="genderless blue icon"></i>
       <div class="content">CSS selectors</div>
     </a>    
